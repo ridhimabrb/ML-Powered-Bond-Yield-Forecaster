@@ -6,6 +6,10 @@ A quantitative finance and machine learning project that combines traditional fi
 
 The platform prices bonds using discounted cash flow (DCF) methodology and forecasts future Indian Government Security (G-Sec) yields using a Random Forest regression model trained on historical market data.
 
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/09e9c108-a7cc-4df4-a7d5-b7968192f568" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/e71af733-523d-4bca-a8bf-bef5989ce610" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/caf9e5ae-5c68-458c-a61b-0c7ff3435a2d" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/0947efec-6f47-44b1-aa2c-2dfd336d08de" />
 
 ## Features
 
